@@ -1,0 +1,2 @@
+# Bankist-web-appliction-UI
+Bankist is a online banking app. Its main features are ,login with username and password , view and sort movements, Transfer money to another account , Request Loan from the bank ,delete their account . Made by HTML(5) CSS3 and Modern Javascript(ES6). Though the instructor provided the only some HTML and CSS but all the Javascript and features added by myself jsut watching the demo UI.
